@@ -1,0 +1,11 @@
+C:\csharp\ar\virtualandoverridemodifiers\bin\Debug\netcoreapp3.0\virtualandoverridemodifiers.exe
+C:\csharp\ar\virtualandoverridemodifiers\bin\Debug\netcoreapp3.0\virtualandoverridemodifiers.deps.json
+C:\csharp\ar\virtualandoverridemodifiers\bin\Debug\netcoreapp3.0\virtualandoverridemodifiers.runtimeconfig.json
+C:\csharp\ar\virtualandoverridemodifiers\bin\Debug\netcoreapp3.0\virtualandoverridemodifiers.runtimeconfig.dev.json
+C:\csharp\ar\virtualandoverridemodifiers\bin\Debug\netcoreapp3.0\virtualandoverridemodifiers.dll
+C:\csharp\ar\virtualandoverridemodifiers\bin\Debug\netcoreapp3.0\virtualandoverridemodifiers.pdb
+C:\csharp\ar\virtualandoverridemodifiers\obj\Debug\netcoreapp3.0\virtualandoverridemodifiers.csprojAssemblyReference.cache
+C:\csharp\ar\virtualandoverridemodifiers\obj\Debug\netcoreapp3.0\virtualandoverridemodifiers.AssemblyInfoInputs.cache
+C:\csharp\ar\virtualandoverridemodifiers\obj\Debug\netcoreapp3.0\virtualandoverridemodifiers.AssemblyInfo.cs
+C:\csharp\ar\virtualandoverridemodifiers\obj\Debug\netcoreapp3.0\virtualandoverridemodifiers.dll
+C:\csharp\ar\virtualandoverridemodifiers\obj\Debug\netcoreapp3.0\virtualandoverridemodifiers.pdb
